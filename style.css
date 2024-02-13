@@ -141,7 +141,7 @@ h2 {
   cursor: pointer;
   color: white;
 }
-button:hover {
+.button:hover {
   background-color: orangered;
 }
 ::-webkit-scrollbar {
